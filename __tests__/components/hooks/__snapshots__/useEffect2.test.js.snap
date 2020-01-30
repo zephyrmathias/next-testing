@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`diff snapshot should increase count number when button is clicked 1`] = `
+Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <button>
+-     0
++     1
+    </button>
+  </DocumentFragment>
+`;

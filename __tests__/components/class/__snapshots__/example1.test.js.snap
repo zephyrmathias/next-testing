@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot should match with snapshot (no lifecycle) 1`] = `
+<div>
+  <div>
+    Class Example 1
+  </div>
+  <div
+    className="title"
+  >
+    default title
+  </div>
+</div>
+`;
+
+exports[`snapshot should match with snapshot 1`] = `
+<div>
+  <div>
+    Class Example 1
+  </div>
+  <div
+    className="title"
+  >
+    new title
+  </div>
+</div>
+`;
